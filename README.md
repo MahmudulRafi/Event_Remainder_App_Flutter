@@ -1,4 +1,4 @@
-# my_app
+# Event Reminder App
 
 A new Flutter project.
 
